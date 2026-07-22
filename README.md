@@ -10,3 +10,6 @@ Actualmente la cafeteria maneja diferentes beneficios para sus clientes, como de
 ## Solución propuesta
 Para resolver este problema se aplicara el patrón de diseño Strategy.
 Este patrón permite separar las diferentes formas de calcular descuentos en clases independientes. De esta manera el sistema puede cambiar la estrategia de descuento que utiliza un pedido sin modificar la logica principal.
+
+## Salida en consola
+<img width="573" height="588" alt="image" src="https://github.com/user-attachments/assets/4d36916d-726a-4a71-99dd-344cae3d3c1f" />
